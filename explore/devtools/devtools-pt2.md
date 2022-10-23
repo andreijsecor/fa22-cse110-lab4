@@ -1,0 +1,2 @@
+1. num1 and num2 are of the type string. As a result, the + operator performs string concatenation instead of integer addition, contrary to the intention.
+2. when num1 and num2 are grabbed from the input boxes, I added a parseInt() statement to immediately convert them to integers, allowing them to undergo integer addition.
